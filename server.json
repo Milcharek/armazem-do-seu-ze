@@ -1,0 +1,95 @@
+{
+  "category": [
+      {
+        "id": 1,
+        "name": "Bebidas"
+      },
+      {
+        "id": 2,
+        "name": "Doces"
+      },
+      {
+        "id": 3,
+        "name": "Salgados"
+      }
+    ],
+  "products": [
+    {
+      "id": 1,
+      "category": 1,
+      "title": "Coca-Cola lata 350ml",
+      "price": 3.50,
+      "image": "https://static.carrefour.com.br/medias/sys_master/images/images/hc5/h21/h00/h00/12175672868894.jpg"
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "title": "Fanta Uva lata 220ml",
+      "price": 2.99,
+      "image": "https://static.carrefour.com.br/medias/sys_master/images/images/h93/h62/h00/h00/14069942714398.jpg"
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "title": "Fanta Laranja lata 310ml",
+      "price": 3.25,
+      "image": "https://static.carrefour.com.br/medias/sys_master/images/images/h42/h75/h00/h00/14026402627614.jpg"
+    },
+    {
+      "id": 4,
+      "category": 2,
+      "title": "Chocolate Chokito",
+      "price": 1.90,
+      "image": "https://static.carrefour.com.br/medias/sys_master/images/images/h2e/h89/h00/h00/13402759233566.jpg"
+    },
+    {
+      "id": 5,
+      "category": 2,
+      "title": "Chocolate Prestígio",
+      "price": 1.80,
+      "image": "https://static.carrefour.com.br/medias/sys_master/images/images/h9f/h39/h00/h00/12655754215454.jpg"
+    },
+    {
+      "id": 6,
+      "category": 2,
+      "title": "Pirulito 7 Belo Saco 120gr",
+      "price": 2.50,
+      "image": "https://static.carrefour.com.br/medias/sys_master/images/images/h34/hc7/h00/h00/9476834525214.jpg"
+    },
+    {
+      "id": 7,
+      "category": 2,
+      "title": "Pote Nutella 350gr",
+      "price": 23.99,
+      "image": "https://static.carrefour.com.br/medias/sys_master/images/images/h42/h37/h00/h00/9456039952414.jpg"
+    },
+    {
+      "id": 8,
+      "category": 3,
+      "title": "Doritos 96gr",
+      "price": 4.50,
+      "image": "https://static.carrefour.com.br/medias/sys_master/images/images/h65/h6f/h00/h00/13389309050910.jpg"
+    },
+    {
+      "id": 9,
+      "category": 3,
+      "title": "Fandangos Presunto 280gr",
+      "price": 3.80,
+      "image": "https://static.carrefour.com.br/medias/sys_master/images/images/h84/h73/h00/h00/12209254694942.jpg"
+    },
+    {
+      "id": 10,
+      "category": 3,
+      "title": "Ruffles 96gr",
+      "price": 4.50,
+      "image": "https://static.carrefour.com.br/medias/sys_master/images/images/h2b/hd2/h00/h00/13402861010974.jpg"
+    },
+    {
+      "id": 11,
+      "category": 3,
+      "title": "Cheetos Queijo 140gr",
+      "price": 3.50,
+      "image": "https://static.carrefour.com.br/medias/sys_master/images/images/h51/h98/h00/h00/13024222052382.jpg"
+    }
+  ]
+}
