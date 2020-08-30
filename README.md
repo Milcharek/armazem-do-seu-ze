@@ -1,4 +1,4 @@
-# Exercício de seleção: Front-End - IRIS
+# Carrinho de compras feito em React
 Por Filipe Milcharek D'Avila
 
 ## Instruções:
@@ -11,3 +11,9 @@ Em outra instância do terminal:
 `yarn start`
 
 Aguardar o navegador abrir no http://localhost:3000/
+
+## Tecnologias utilizadas
+- React
+- Redux
+- Styled Components
+- Axios
